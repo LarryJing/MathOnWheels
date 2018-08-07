@@ -1,2 +1,4 @@
 # MathOnWheels
-privacy policy
+Privacy:
+
+No data is recorded.
